@@ -10,7 +10,10 @@ A full-stack embedded hardware-to-software pipeline that translates physical mot
 This project reads raw angular velocity from an L3GD20/L3GD20H gyroscope via SPI on an STM32 microcontroller, transmits the parsed data over a Virtual COM Port (UART), and uses a multi-threaded Python script to animate a 3D F-15 aircraft model in Blender with zero perceptible latency.
 
 ## 🎥 Demonstration
-*[Insert a GIF here showing the physical board moving next to the Blender screen]*
+
+[![STM32 to Blender Real-Time Demo](https://img.youtube.com/vi/https://youtu.be/NO5X-J4crtQ?si=G93psrgQKab591qn/maxresdefault.jpg)]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/[NO5X-J4crtQ?si=G93psrgQKab591qn](https://youtu.be/NO5X-J4crtQ?si=G93psrgQKab591qn)))
+
+*Click the image above to watch the full hardware-in-the-loop demonstration on YouTube.*
 
 ## ✨ Technical Highlights
 * **Bare-Metal SPI Communication:** Uses STM32 HAL to perform highly efficient "Burst Reads," capturing X, Y, and Z axes simultaneously.
