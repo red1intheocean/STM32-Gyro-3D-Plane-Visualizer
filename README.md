@@ -14,8 +14,7 @@ This project reads raw angular velocity from an L3GD20/L3GD20H gyroscope via SPI
 <img width="360" height="202" alt="axm2br" src="https://github.com/user-attachments/assets/840bd7c6-a157-429f-88b7-b35ee711df1b" />
 
 
-📺 **[Click here to watch the full hardware-in-the-loop demonstration on YouTube!](https://youtu.be/NO5X-J4crtQ)**
-*Click the image above to watch the full hardware-in-the-loop demonstration on YouTube.*
+📺 **[Full Video on YT](https://youtu.be/NO5X-J4crtQ)**
 
 ## ✨ Technical Highlights
 * **Bare-Metal SPI Communication:** Uses STM32 HAL to perform highly efficient "Burst Reads," capturing X, Y, and Z axes simultaneously.
