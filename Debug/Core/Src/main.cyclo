@@ -1,0 +1,9 @@
+../Core/Src/main.c:33:6:WriteOneByte	1
+../Core/Src/main.c:41:6:BurstRead	1
+../Core/Src/main.c:50:9:ReadOneByte	1
+../Core/Src/main.c:61:5:main	1
+../Core/Src/main.c:107:6:SystemClock_Config	4
+../Core/Src/main.c:136:13:MX_SPI5_Init	2
+../Core/Src/main.c:154:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:167:13:MX_GPIO_Init	1
+../Core/Src/main.c:186:6:Error_Handler	1
