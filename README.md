@@ -11,7 +11,7 @@ This project reads raw angular velocity from an L3GD20/L3GD20H gyroscope via SPI
 
 ## 🎥 Demonstration
 
-[![STM32 to Blender Real-Time Demo](https://img.youtube.com/vi/https://youtu.be/NO5X-J4crtQ?si=G93psrgQKab591qn/maxresdefault.jpg)]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/[NO5X-J4crtQ?si=G93psrgQKab591qn](https://youtu.be/NO5X-J4crtQ?si=G93psrgQKab591qn)))
+[![STM32 to Blender Real-Time Demo](https://img.youtube.com/vi/NO5X-J4crtQ/maxresdefault.jpg)](https://youtu.be/NO5X-J4crtQ)
 
 *Click the image above to watch the full hardware-in-the-loop demonstration on YouTube.*
 
